@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color:darkgray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3vh;
+
+}
+
+button, #duplicateField {
+  background-color:springgreen;
+}
+
+li {
+  list-style: none;
+  padding: 1vh;
+}
+
+a {
+  color: black;
+}
+
+#trafficLight, #green, #yellow, #red {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
